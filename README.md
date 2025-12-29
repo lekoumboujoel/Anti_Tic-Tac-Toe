@@ -54,7 +54,7 @@ in die jeweiligen Projektdateien übernommen werden.
 
 ### Alternative 2: Klonen des Git-Repositories
 Das vollständige Projekt kann alternativ über folgendes GitHub-Repository bezogen werden:  
-https://github.com/lekoumboujoel/demo-ki-chatbot
+https://github.com/lekoumboujoel/Anti_Tic-Tac-Toe
 
 ## Ausführung des Programms
 1. Öffnen des Projekts in Qt Creator
