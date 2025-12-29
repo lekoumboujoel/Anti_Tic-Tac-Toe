@@ -5,7 +5,7 @@ Dieses Projekt wurde im Rahmen einer Bewerbungsaufgabe für die Ausbildung
 zum **Fachinformatiker für Anwendungsentwicklung** bei **adesso** entwickelt.
 
 Es handelt sich um eine Variante des klassischen Spiels Tic-Tac-Toe
-(Misère Tic-Tac-Toe), bei der ein Spieler verliert, sobald er drei identische
+, bei der ein Spieler verliert, sobald er drei identische
 Symbole in einer Reihe, Spalte oder Diagonale platziert.
 
 ## Spielregeln
@@ -63,7 +63,3 @@ https://github.com/lekoumboujoel/Anti_Tic-Tac-Toe
 4. Auswahl der gewünschten Spielfeldgröße
 5. Beginn des Spiels
 
-## Autor
-Loic Joel Lekoumbou Wati  
-Bewerber für die Ausbildung zum  
-**Fachinformatiker für Anwendungsentwicklung**
